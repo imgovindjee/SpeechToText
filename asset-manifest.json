@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/imgovindjee/SpeechToText/static/css/main.2561604d.css",
-    "main.js": "/imgovindjee/SpeechToText/static/js/main.d3a3188a.js",
-    "static/js/453.b0b7e248.chunk.js": "/imgovindjee/SpeechToText/static/js/453.b0b7e248.chunk.js",
-    "index.html": "/imgovindjee/SpeechToText/index.html",
-    "main.2561604d.css.map": "/imgovindjee/SpeechToText/static/css/main.2561604d.css.map",
-    "main.d3a3188a.js.map": "/imgovindjee/SpeechToText/static/js/main.d3a3188a.js.map",
-    "453.b0b7e248.chunk.js.map": "/imgovindjee/SpeechToText/static/js/453.b0b7e248.chunk.js.map"
+    "main.css": "/SpeechToText/static/css/main.2561604d.css",
+    "main.js": "/SpeechToText/static/js/main.6ae365b7.js",
+    "static/js/453.b0b7e248.chunk.js": "/SpeechToText/static/js/453.b0b7e248.chunk.js",
+    "index.html": "/SpeechToText/index.html",
+    "main.2561604d.css.map": "/SpeechToText/static/css/main.2561604d.css.map",
+    "main.6ae365b7.js.map": "/SpeechToText/static/js/main.6ae365b7.js.map",
+    "453.b0b7e248.chunk.js.map": "/SpeechToText/static/js/453.b0b7e248.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2561604d.css",
-    "static/js/main.d3a3188a.js"
+    "static/js/main.6ae365b7.js"
   ]
 }
